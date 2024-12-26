@@ -1,4 +1,4 @@
-import random
+iimport random
 import string
 import shutil
 import asyncio
@@ -44,14 +44,14 @@ import threading
 #BoT Configuration Variables
 api_id = 10181262
 api_hash = "f52b5a057b73b9974eaa7403e04907f0"
-bot_token = '5897771276:AAHX0OVFhvS_acVL7BWKR2mHZRBKcONZixw'
+bot_token = '5896424509:AAHMwBUfQkHPY-xtVNdDVflLgRf0DkwrI-U'
 #Channel_Id = -1001919095024
 #msg_id = int(os.environ.get('id'))
 bot = Client("bot",api_id=api_id,api_hash=api_hash,bot_token=bot_token)
-boss = ['UHTRED_OF_BEBBANBURG','Stvz20', "Maykol0102"]#usuarios supremos
+boss = ['JAGB2021','Stvz20', "Maykol0102"]#usuarios supremos
 #Configs = {"vcl":'035649148fac062426ee3c5d72a6ec1f',"gtm":"cc9c6b9c0523b17c7f00202993ceac1c","uvs":"4ce7bf57fb75c046a9fbdd30900ea7c9","ltu":"a816210ff41853b689c154bad264da8e",
 #			"ucuser": "", "ucpass":"","uclv_p":"", "gp":'socks5://181.225.255.48:9050', "s":"On", 
-#			'UHTRED_OF_BEBBANBURG': {'z': 99,"m":"u","a":"c","t":"y"}, 
+#			'JAGB2021': {'z': 99,"m":"u","a":"c","t":"y"}, 
 #			'Stvz20': {'z': 99,"m":"u","a":"upltu","t":"y"}
 #			}
 #Configs = {'up_revista_mode1': {'host': "", 'user': 'stvz02', 'pasw': 'stvz02', 'id': 29285}, "up_dspace": {"host": "", "user": "", "pasw", ""}}

@@ -46,7 +46,7 @@ api_id = 10181262
 api_hash = "f52b5a057b73b9974eaa7403e04907f0"
 bot_token = '5896424509:AAHMwBUfQkHPY-xtVNdDVflLgRf0DkwrI-U'
 #Channel_Id = -1002433861865
-#msg_id = int(os.environ.get('id'))
+#msg_id =3 int(os.environ.get('id'))
 bot = Client("bot",api_id=api_id,api_hash=api_hash,bot_token=bot_token)
 boss = ['JAGB2021','Stvz20', "Maykol0102"]#usuarios supremos
 #Configs = {"vcl":'035649148fac062426ee3c5d72a6ec1f',"gtm":"cc9c6b9c0523b17c7f00202993ceac1c","uvs":"4ce7bf57fb75c046a9fbdd30900ea7c9","ltu":"a816210ff41853b689c154bad264da8e",

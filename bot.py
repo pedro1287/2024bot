@@ -42,8 +42,8 @@ from multivolumefile import MultiVolume
 import threading
 
 #BoT Configuration Variables
-api_id = 9910861
-api_hash = "86e927460a8998ba6d84e9c13acfda95"
+api_id = 10181262
+api_hash = "f52b5a057b73b9974eaa7403e04907f0"
 bot_token = '5897771276:AAHX0OVFhvS_acVL7BWKR2mHZRBKcONZixw'
 #Channel_Id = -1001919095024
 #msg_id = int(os.environ.get('id'))

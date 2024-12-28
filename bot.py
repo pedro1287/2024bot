@@ -42,7 +42,7 @@ from multivolumefile import MultiVolume
 import threading
 
 #BoT Configuration Variables
-api_id = 20982189
+api_id = 
 api_hash = "59c96b140cdc47de7f7e3c7316448156"
 bot_token = '7991466412:AAFheH6BbmQx8FjQNTIac2iSMkPsniwAR7Y'
 #Channel_Id = -1002455282603

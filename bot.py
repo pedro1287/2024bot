@@ -42,13 +42,13 @@ from multivolumefile import MultiVolume
 import threading
 
 #BoT Configuration Variables
-api_id = 
-api_hash = "59c96b140cdc47de7f7e3c7316448156"
-bot_token = '7991466412:AAFheH6BbmQx8FjQNTIac2iSMkPsniwAR7Y'
-#Channel_Id = -1002455282603
+api_id = 10181262
+api_hash = "f52b5a057b73b9974eaa7403e04907f0"
+bot_token = '5896424509:AAHMwBUfQkHPY-xtVNdDVflLgRf0DkwrI-U'
+#Channel_Id = -1002433861865
 #msg_id =3 int(os.environ.get('id'))
 bot = Client("bot",api_id=api_id,api_hash=api_hash,bot_token=bot_token)
-boss = ['tufutbolista11']#usuarios supremos
+boss = ['JAGB2021']#usuarios supremos
 #Configs = {"vcl":'035649148fac062426ee3c5d72a6ec1f',"gtm":"cc9c6b9c0523b17c7f00202993ceac1c","uvs":"4ce7bf57fb75c046a9fbdd30900ea7c9","ltu":"a816210ff41853b689c154bad264da8e",
 #			"ucuser": "", "ucpass":"","uclv_p":"", "gp":'socks5://181.225.255.48:9050', "s":"On", 
 #			'JAGB2021': {'z': 99,"m":"u","a":"c","t":"y"}, 
@@ -175,7 +175,7 @@ def timer(bot, message):
 
 upload = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🔼 Subir 🔼', callback_data="tesis")
+        InlineKeyboardButton('🔼 Subir 🔼', callback_data="innovacion")
       #  InlineKeyboardButton('🉑Revista🆎', callback_data="revista")],
       #  [InlineKeyboardButton('☁️ Ｕｖｓ.Ｌｔｕ ☁️ 9️⃣ Mb', callback_data="uvs")],
        # [InlineKeyboardButton('☁️ ᏀᎢᗰ ☁️ 5️⃣ Mb', callback_data="gtm")],
@@ -1332,8 +1332,8 @@ async def upload_rev(path,usid,msg,username):
             data = {
                 "X-Csrf-token": csrfToken,
                 "source": "",
-                "username": "luis2002",
-                "password": "Luis2002.",
+                "username": "chapa",
+                "password": "Lianet123*#.",
                 "remember" : "1"
             }
             async with session.post("https://innovacion.ciget.lastunas.cu/index.php/innovatec/login/signIn", data=data, ssl=False) as a:

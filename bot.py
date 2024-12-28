@@ -761,7 +761,7 @@ async def text_filter(client, message):
     elif '/add' in mss:
         usr = message.text.split(" ")[1]
         if username in boss:
-            Configs[usr] = {'zips': 39, 'user': 'tufutbolista11', 'pasw': 'tufutbolista11', 'uptype': 'mode1', 'host': '', 'id': 29285, "id_del": []}
+            Configs[usr] = {'zips': 39, 'user': 'JAGB2021', 'pasw' , 'JAGB2021', 'uptype': 'mode1', 'host': '', 'id': 29285, "id_del": []}
             await send_config()
             await send(f"@{usr} **Tiene Acceso**", quote=True)
             await bot.send_message(usr, "**Ya tienes Acceso al Bot!!**")
